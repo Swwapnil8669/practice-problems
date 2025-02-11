@@ -17,4 +17,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Swwapnil8669/practice-problems/tree/master/0197-rising-temperature) |
+| [1801-average-time-of-process-per-machine](https://github.com/Swwapnil8669/practice-problems/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->

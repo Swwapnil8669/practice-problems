@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swwapnil8669/practice-problems/tree/master/0160-intersection-of-two-linked-lists) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/Swwapnil8669/practice-problems/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->

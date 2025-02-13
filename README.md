@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Swwapnil8669/practice-problems/tree/master/0577-employee-bonus) |
 | [1415-students-and-examinations](https://github.com/Swwapnil8669/practice-problems/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/Swwapnil8669/practice-problems/tree/master/1801-average-time-of-process-per-machine) |
+| [2087-confirmation-rate](https://github.com/Swwapnil8669/practice-problems/tree/master/2087-confirmation-rate) |
 ## String
 |  |
 | ------- |

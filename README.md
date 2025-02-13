@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swwapnil8669/practice-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0344-reverse-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0344-reverse-string) |
 ## Database
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Swwapnil8669/practice-problems/tree/master/0014-longest-common-prefix) |
+| [0344-reverse-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Swwapnil8669/practice-problems/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |

@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swwapnil8669/practice-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/Swwapnil8669/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
 | ------- |
@@ -67,5 +68,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swwapnil8669/practice-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Swwapnil8669/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swwapnil8669/practice-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Swwapnil8669/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

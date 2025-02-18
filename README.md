@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swwapnil8669/practice-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Swwapnil8669/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Swwapnil8669/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swwapnil8669/practice-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Swwapnil8669/practice-problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Swwapnil8669/practice-problems/tree/master/3242-count-elements-with-maximum-frequency) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Swwapnil8669/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->

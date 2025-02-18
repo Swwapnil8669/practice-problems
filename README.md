@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Swwapnil8669/practice-problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Swwapnil8669/practice-problems/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Swwapnil8669/practice-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Swwapnil8669/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0344-reverse-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Swwapnil8669/practice-problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Swwapnil8669/practice-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Swwapnil8669/practice-problems/tree/master/0232-implement-queue-using-stacks) |
 ## Design

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Swwapnil8669/practice-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Swwapnil8669/practice-problems/tree/master/0412-fizz-buzz) |
+| [1078-remove-outermost-parentheses](https://github.com/Swwapnil8669/practice-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Swwapnil8669/practice-problems/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Swwapnil8669/practice-problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Swwapnil8669/practice-problems/tree/master/0232-implement-queue-using-stacks) |
+| [1078-remove-outermost-parentheses](https://github.com/Swwapnil8669/practice-problems/tree/master/1078-remove-outermost-parentheses) |
 ## Design
 |  |
 | ------- |

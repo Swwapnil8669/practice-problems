@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Swwapnil8669/practice-problems/tree/master/0412-fizz-buzz) |
+| [0812-rotate-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Swwapnil8669/practice-problems/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Swwapnil8669/practice-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/Swwapnil8669/practice-problems/tree/master/2032-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

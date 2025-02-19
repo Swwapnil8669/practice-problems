@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swwapnil8669/practice-problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Swwapnil8669/practice-problems/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Swwapnil8669/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Swwapnil8669/practice-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Swwapnil8669/practice-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Swwapnil8669/practice-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Swwapnil8669/practice-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Swwapnil8669/practice-problems/tree/master/0412-fizz-buzz) |
 | [0812-rotate-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0812-rotate-string) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0812-rotate-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Swwapnil8669/practice-problems/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

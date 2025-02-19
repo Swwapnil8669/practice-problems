@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Swwapnil8669/practice-problems/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Swwapnil8669/practice-problems/tree/master/0412-fizz-buzz) |
 | [1078-remove-outermost-parentheses](https://github.com/Swwapnil8669/practice-problems/tree/master/1078-remove-outermost-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/Swwapnil8669/practice-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Swwapnil8669/practice-problems/tree/master/0007-reverse-integer) |
 | [0412-fizz-buzz](https://github.com/Swwapnil8669/practice-problems/tree/master/0412-fizz-buzz) |
+| [2032-largest-odd-number-in-string](https://github.com/Swwapnil8669/practice-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -101,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Swwapnil8669/practice-problems/tree/master/0005-longest-palindromic-substring) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Swwapnil8669/practice-problems/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->

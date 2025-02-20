@@ -4,7 +4,7 @@ class Solution {
         int max = 0;
         int l = 0;
         int len = 0;
-        int ans = 0;
+       
         
         for(int r = 0; r<s.length() ; r++){
             freq[s.charAt(r) - 'A']++;
@@ -16,7 +16,7 @@ class Solution {
                  l++;
                  len = r-l+ 1;
             }
-            // ans = Math.max(len,ans);
+            
         }
         return len;
     }

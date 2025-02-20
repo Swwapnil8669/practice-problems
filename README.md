@@ -91,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swwapnil8669/practice-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Swwapnil8669/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Swwapnil8669/practice-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Swwapnil8669/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Swwapnil8669/practice-problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Swwapnil8669/practice-problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Swwapnil8669/practice-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Swwapnil8669/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Swwapnil8669/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Swwapnil8669/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swwapnil8669/practice-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/Swwapnil8669/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

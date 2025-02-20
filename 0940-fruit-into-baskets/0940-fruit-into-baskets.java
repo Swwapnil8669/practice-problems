@@ -14,7 +14,7 @@ class Solution {
             }
 
             
-            while(map.size()>2){
+            if(map.size()>2){
                 map.put(f[l],map.get(f[l])-1);
                 if(map.get(f[l])==0){
                     map.remove(f[l]);   

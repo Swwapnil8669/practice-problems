@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Swwapnil8669/practice-problems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/Swwapnil8669/practice-problems/tree/master/0048-rotate-image) |
 | [0412-fizz-buzz](https://github.com/Swwapnil8669/practice-problems/tree/master/0412-fizz-buzz) |
 | [2032-largest-odd-number-in-string](https://github.com/Swwapnil8669/practice-problems/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Swwapnil8669/practice-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Swwapnil8669/practice-problems/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/Swwapnil8669/practice-problems/tree/master/0048-rotate-image) |
 | [0560-subarray-sum-equals-k](https://github.com/Swwapnil8669/practice-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Swwapnil8669/practice-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Swwapnil8669/practice-problems/tree/master/0966-binary-subarrays-with-sum) |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/Swwapnil8669/practice-problems/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Swwapnil8669/practice-problems/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Swwapnil8669/practice-problems/tree/master/1046-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Swwapnil8669/practice-problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
